@@ -11,4 +11,4 @@ log
 /CNKIPaSearchCrontab/logs/
 /CNKIPaSearchCrontab/utils/config.py
 /CNKIPaSearchCrontab/config.py
-
+/CNKIPaSearchCrontab/utils/dbhelper.py
