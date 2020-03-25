@@ -1,0 +1,14 @@
+.idea
+__pycache__
+venv
+files
+config.py
+.env
+log
+*.csv
+*.xlsx
+/logs/
+/CNKIPaSearchCrontab/logs/
+/CNKIPaSearchCrontab/utils/config.py
+/CNKIPaSearchCrontab/config.py
+
